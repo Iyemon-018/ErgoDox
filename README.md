@@ -68,4 +68,4 @@ PCを再起動する。
 
 2017-09-07現在のキーマップ
 
-https://www.massdrop.com/configurator/ergodox
+https://www.massdrop.com/configurator/ergodox?referer=XNJD4M&hash=fa9ff064c6ec921d57e2d5aedfb2fb1a
