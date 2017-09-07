@@ -63,3 +63,9 @@ PCを再起動する。
 原因：
 不明
 今のところ、PCを再起動するとこの現象が発生する。
+
+
+
+2017-09-07現在のキーマップ
+
+https://www.massdrop.com/configurator/ergodox
