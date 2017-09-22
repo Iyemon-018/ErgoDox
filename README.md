@@ -65,7 +65,12 @@ PCを再起動する。
 今のところ、PCを再起動するとこの現象が発生する。
 
 
+---
 
-2017-09-07現在のキーマップ
+## 2017-09-22現在のキーマップ
+
+https://www.massdrop.com/configurator/ergodox?referer=XNJD4M&hash=de16527c8959761cf1a39f4e192afd14
+
+### 2017-09-07現在のキーマップ
 
 https://www.massdrop.com/configurator/ergodox?referer=XNJD4M&hash=fa9ff064c6ec921d57e2d5aedfb2fb1a
